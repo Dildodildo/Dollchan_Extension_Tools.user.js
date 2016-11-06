@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name            Dollchan Extension Tools
 // @version         16.8.17.1
-// @namespace       Pysos
+// @namespace       http://www.freedollchan.org/scripts/*
 // @author          Anus
 // @copyright       (c) 2015 Dollchan Extension Tools Team. See the LICENSE file for license rights and limitations (MIT).
 // @description     Doing some profit for imageboards

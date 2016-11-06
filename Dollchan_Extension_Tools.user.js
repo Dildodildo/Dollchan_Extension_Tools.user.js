@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name            Dollchan Extension Tools
-// @version         16.8.17.0
-// @namespace       http://www.freedollchan.org/scripts/*
-// @author          Sthephan Shinkufag @ FreeDollChan
+// @version         16.8.17.1
+// @namespace       Pysos
+// @author          Anus
 // @copyright       (c) 2015 Dollchan Extension Tools Team. See the LICENSE file for license rights and limitations (MIT).
 // @description     Doing some profit for imageboards
 // @icon            https://raw.github.com/SthephanShinkufag/Dollchan-Extension-Tools/master/Icon.png
